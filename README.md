@@ -1,9 +1,18 @@
-### Hi there 👋
+## CHANN / 박희찬 
+
+<p align="center">
+  <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
+  <a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
+  <a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
+  <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
+  <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
+</p>
+
+Resume: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)
 
 <!--
 **channprj/channprj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
