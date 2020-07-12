@@ -1,12 +1,12 @@
-## CHANN / 박희찬 
+## CHANN / 박희찬
 
 <p align="center">
   <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://blog.chann.kr">![Blog](https://img.shields.io/badge/blog-blog.chann.kr-303030.svg)</a>
-  <a href="https://twitter.com/channprj">![Twitter](https://img.shields.io/badge/twitter-channprj-1da1f2.svg)</a>
-  <a href="https://fb.com/channprj">![Facebook](https://img.shields.io/badge/facebook-channprj-3b5998.svg)</a>
-  <a href="https://instagram.com/channprj">![Instagram](https://img.shields.io/badge/instagram-channprj-e1306c.svg)</a>
-  <a href="https://kr.linkedin.com/in/channprj">![Linkedin](https://img.shields.io/badge/linkedin-channprj-0077b5.svg)</a>
+  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
+  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg" alt="Twitter" /></a>
+  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg" alt="Facebook" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg" alt="Instagram" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg" alt="Linkedin" /></a>
 </p>
 
 Resume: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)
