@@ -9,14 +9,15 @@
   <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg" alt="Linkedin" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=channprj&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channprj" />
-</a>
-
-<br />
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=channprj&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channprj" />
+  </a>
+  <br />
+</p>
 
 Resume: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)
 
