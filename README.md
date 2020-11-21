@@ -1,6 +1,6 @@
 ## CHANN / 박희찬
 
-Resume: [English](https://about.chann.kr/en), [한국어](https://docs.google.com/document/d/1v4yaUrgJuyn0ItWOW7jEBZ93nrCpE90RMA0_3End4Uk)
+Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr/ko)
 
 <p align="center">
   <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
