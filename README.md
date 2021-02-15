@@ -12,9 +12,11 @@ Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr
 </p>
 
 <p align="center">
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=channprj&count_private=true&show_icons=true" />
   </a>
+  -->
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channprj&layout=compact&count_private=true&hide=css,html,vim script" />
