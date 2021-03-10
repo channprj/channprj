@@ -1,5 +1,14 @@
 ## CHANN / 박희찬
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj)](https://hits.seeyoufarm.com)
+
+- 👨🏻‍💻 Software Engineer at [dco.com](https://www.dco.com)
+- 🇰🇷 From South Korea
+- 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️
+- 🎓 B.E. in 💻 and B.Sci. in 🧠
+- 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, bci, etc. 
+- 🌐 https://chann.dev
+
 Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr/ko)
 
 <p align="center">
