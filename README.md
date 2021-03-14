@@ -6,7 +6,7 @@
 - 🇰🇷 From South Korea
 - 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️
 - 🎓 B.E. in 💻 and B.Sci. in 🧠
-- 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, bci, etc. 
+- 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, etc. 
 - 🌐 https://chann.dev
 
 Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr/ko)
