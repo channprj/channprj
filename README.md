@@ -14,10 +14,10 @@ Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr
 <p align="center">
   <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
-  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg" alt="Twitter" /></a>
-  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg" alt="Facebook" /></a>
-  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg" alt="Instagram" /></a>
-  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg" alt="Linkedin" /></a>
+  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
+  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg?style=flat&logo=facebook" alt="Facebook" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg?style=flat&logo=linkedin" alt="Linkedin" /></a>
 </p>
 
 <p align="center">
