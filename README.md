@@ -9,7 +9,7 @@
 - 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, etc. 
 - 🌐 https://chann.dev
 
-Resume: [English](https://about.chann.kr/en), [한국어](https://about.chann.kr/ko)
+Resume: [English :us:](https://about.chann.kr/en) or [한국어 :kr:](https://about.chann.kr/ko)
 
 <p align="center">
   <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
