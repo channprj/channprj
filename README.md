@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchannprj)](https://hits.seeyoufarm.com)
 
-- 👨🏻‍💻 Software Engineer (Previous at [dco.com](https://www.dco.com))
+- 👨🏻‍💻 Software Engineer
 - 🇰🇷 From South Korea
 - 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️
 - 🎓 B.E. in 💻 and B.Sci. in 🧠
