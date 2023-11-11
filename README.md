@@ -4,20 +4,20 @@
 
 - 👨🏻‍💻 Software Engineer
 - 🇰🇷 From South Korea
-- 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️
+- 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️ and Tennis 🎾
 - 🎓 B.E. in 💻 and B.Sci. in 🧠
 - 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, etc. 
-- 🌐 https://chann.dev
+- 🌐 https://blog.chann.kr
 
-Resume: [English :us:](https://about.chann.kr/en) or [한국어 :kr:](https://about.chann.kr/ko)
+Resume: [English :us:](https://resume.chann.kr/en) or [한국어 :kr:](https://resume.chann.kr/ko)
 
+<br />
 <p align="center">
   <a href="https://github.com/channprj"><img src="https://img.shields.io/github/followers/channprj.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-303030.svg" alt="Blog" /></a>
-  <a href="https://twitter.com/channprj"><img src="https://img.shields.io/badge/twitter-channprj-1da1f2.svg?style=flat&logo=twitter" alt="Twitter" /></a>
-  <a href="https://fb.com/channprj"><img src="https://img.shields.io/badge/facebook-channprj-3b5998.svg?style=flat&logo=facebook" alt="Facebook" /></a>
-  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
-  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/linkedin-channprj-0077b5.svg?style=flat&logo=linkedin" alt="Linkedin" /></a>
+  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-202020.svg" alt="Blog" /></a>
+  <a href="https://x.com/channprj"><img src="https://img.shields.io/badge/X-channprj-000000.svg?style=flat&logo=x" alt="X" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/Instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/LinkedIn-channprj-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
