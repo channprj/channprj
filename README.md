@@ -73,7 +73,7 @@ print(profile.json())
   <a href="https://x.com/channprj"><img src="https://img.shields.io/badge/X-channprj-000000.svg?style=flat&logo=x" alt="X" /></a>
   <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/Instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
   <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/LinkedIn-channprj-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://mastodon.social/@chann"><img src="https://fedi-badge.deno.dev/@chann@mastodon.social/followers.svg" alt="Fediverse" /></a>
+  <a href="https://mastodon.social/@chann"><img src="https://img.shields.io/mastodon/follow/000219287" alt="Fediverse" /></a>
 </p>
 <!--
 
