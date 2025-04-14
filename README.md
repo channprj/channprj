@@ -1,4 +1,4 @@
-## Park Hee CHan (CHANN)
+## Park Hee Chan (CHANN)
 
 ```py
 import json
