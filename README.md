@@ -9,7 +9,7 @@ from typing import Dict, List
 @dataclass
 class Profile:
     name: str = "Park Hee Chan"
-    description: str = "Software Engineer over 8 years"
+    description: str = "Software Engineer over 9 years"
     nickname: str = "CHANN"
     job: str = "👨🏻‍💻 Software Engineer"
     nationality: str = "🇰🇷 South Korea"
