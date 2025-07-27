@@ -43,6 +43,7 @@ class Profile:
     social: Dict[str, str] = field(
         default_factory=lambda: {
             "blog": "https://blog.chann.kr",
+            "digital-garden": "https://garden.chann.dev",
             "instagram": "https://instagram.com/channprj",
             "linkedin": "https://linkedin.com/in/channprj",
             "x": "https://x.com/channprj",
@@ -65,6 +66,7 @@ print(profile.json())
 - 🎓 B.E. in 💻 and B.Sci. in 🧠
 - 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, etc. 
 - 🌐 https://blog.chann.kr
+- 🗄️ https://garden.chann.dev
 - Resume: [English :us:](https://resume.chann.kr/en) or [한국어 :kr:](https://resume.chann.kr/ko)
 
 <br />
