@@ -38,7 +38,7 @@ class Profile:
     )
     hobbies: List[str] = field(
         # fmt: off
-        default_factory=lambda: [ "🥾 Hiking", "🎾 Tennis", "🚴🏻 Cycling", "💪🏻 Fitness"]
+        default_factory=lambda: [ "🥾 Hiking", "🚴🏻 Cycling", "🎾 Tennis", "💪🏻 Fitness"]
     )
     social: Dict[str, str] = field(
         default_factory=lambda: {
@@ -60,11 +60,11 @@ profile = Profile()
 print(profile.json())
 ```
 
-- 👨🏻‍💻 Software Engineer
-- 🇰🇷 From South Korea
-- 🥰 Like Hiking 🥾 and Cycling 🚴🏻‍♂️ and Tennis 🎾
-- 🎓 B.E. in 💻 and B.Sci. in 🧠
-- 🏷 go, py, ts, devops, docker, k8s, automation, rpi, homelab, keyboard, investment, finance, hci, etc. 
+- 👨🏻‍💻 Product Engineer (Mostly Software, Sometimes Hardware)
+- 🇰🇷 Born in South Korea
+- 🥰 Like Hiking 🥾, Cycling 🚴🏻‍♂️, 💪🏻 Fitness, and Tennis 🎾
+- 🎓 B.E. in 💻 Computer and B.Sci. in 🧠 Brain
+- 🏷 go, py, ts, rust, devops, ai, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
 - 🌐 https://blog.chann.kr
 - 🗄️ https://garden.chann.dev
 - Resume: [English :us:](https://resume.chann.kr/en) or [한국어 :kr:](https://resume.chann.kr/ko)
