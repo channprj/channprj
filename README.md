@@ -9,9 +9,9 @@ from typing import Dict, List
 @dataclass
 class Profile:
     name: str = "Park Hee Chan"
-    description: str = "Software Engineer over 9 years"
+    description: str = "Product Engineer over 10+ years"
     nickname: str = "CHANN"
-    job: str = "👨🏻‍💻 Software Engineer"
+    job: str = "👨🏻‍💻 Product Engineer"
     nationality: str = "🇰🇷 South Korea"
     resume: Dict[str, str] = field(
         default_factory=lambda: {
