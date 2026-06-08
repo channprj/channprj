@@ -1,3 +1,12 @@
+
+<p align="center">
+  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-202020.svg" alt="Blog" /></a>
+  <a href="https://x.com/channprj"><img src="https://img.shields.io/badge/X-channprj-000000.svg?style=flat&logo=x" alt="X" /></a>
+  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/Instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
+  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/LinkedIn-channprj-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://mastodon.social/@chann"><img src="https://img.shields.io/mastodon/follow/000219287" alt="Fediverse" /></a>
+</p>
+
 ## Park Hee Chan (CHANN)
 
 ```py
@@ -13,6 +22,7 @@ class Profile:
     nickname: str = "CHANN"
     job: str = "👨🏻‍💻 Product Engineer"
     nationality: str = "🇰🇷 South Korea"
+    timezone: str = "Asia/Seoul"
     resume: Dict[str, str] = field(
         default_factory=lambda: {
             "english": "https://resume.chann.kr/en/",
@@ -22,12 +32,10 @@ class Profile:
     skills: List[str] = field(
         # fmt: off
         default_factory=lambda: [
-            "python", "go", "typescript",
-            "postgres", "mysql", "redis", "kafka",
-            "devops", "docker", "kubernetes", "automation",
-            "homelab", "keyboard",
-            "finance", "investment",
-            "hci", "etc."
+            "python", "go", "typescript", "rust",
+            "postgresql", "redis", "kafka", "reactjs", "reactnative",
+            "ai", "agents", "llm", "automation", "devops", "docker", "k8s",
+            "homelab", "keyboard",  "esp32", "finance", "investment", "hci", "etc."
         ]
     )
     education: List[Dict[str, str]] = field(
@@ -38,7 +46,7 @@ class Profile:
     )
     hobbies: List[str] = field(
         # fmt: off
-        default_factory=lambda: [ "🥾 Hiking", "🚴🏻 Cycling", "🎾 Tennis", "💪🏻 Fitness"]
+        default_factory=lambda: ["👶🏻 Childcare", "🥾 Hiking", "💪🏻 Fitness", "🚴🏻 Cycling", "🎾 Tennis"]
     )
     social: Dict[str, str] = field(
         default_factory=lambda: {
@@ -60,31 +68,10 @@ profile = Profile()
 print(profile.json())
 ```
 
-- 👨🏻‍💻 Product Engineer (Mostly Software, Sometimes Hardware)
+- 👨🏻‍💻 Product Engineer
 - 🇰🇷 Born in South Korea
-- 🥰 Like Hiking 🥾, Cycling 🚴🏻‍♂️, 💪🏻 Fitness, and Tennis 🎾
+- 🥰 Like 👶🏻 Childcare, 🥾 Hiking, 🚴🏻‍♂️ Cycling, 💪🏻 Fitness, and 🎾 Tennis
 - 🎓 B.E. in 💻 Computer and B.Sci. in 🧠 Brain
-- 🏷 go, py, ts, rust, devops, ai, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
-- 🌐 https://blog.chann.kr
-- 🗄️ https://garden.chann.dev
-- Resume: [English :us:](https://resume.chann.kr/en) or [한국어 :kr:](https://resume.chann.kr/ko)
-
-<br />
-<p align="center">
-  <a href="https://blog.chann.kr"><img src="https://img.shields.io/badge/blog-blog.chann.kr-202020.svg" alt="Blog" /></a>
-  <a href="https://x.com/channprj"><img src="https://img.shields.io/badge/X-channprj-000000.svg?style=flat&logo=x" alt="X" /></a>
-  <a href="https://instagram.com/channprj"><img src="https://img.shields.io/badge/Instagram-channprj-e1306c.svg?style=flat&logo=instagram" alt="Instagram" /></a>
-  <a href="https://kr.linkedin.com/in/channprj"><img src="https://img.shields.io/badge/LinkedIn-channprj-0077b5.svg?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://mastodon.social/@chann"><img src="https://img.shields.io/mastodon/follow/000219287" alt="Fediverse" /></a>
-</p>
-<!--
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=channprj&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=channprj&layout=compact&count_private=true&hide=css,html,vim script" />
-  </a>
-</p>
--->
+- 🏷 go, py, ts, rust, devops, ai, agents, llm, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
+- 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://garden.chann.dev](https://garden.chann.dev)
+- Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
