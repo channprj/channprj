@@ -75,3 +75,5 @@ print(profile.json())
 - 🏷 go, py, ts, rust, devops, ai, agents, llm, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
 - 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://garden.chann.dev](https://garden.chann.dev)
 - Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/channprj/svg?template=terminal&tokens=full&cost=full)](https://tokscale.ai/u/channprj)
