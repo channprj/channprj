@@ -76,4 +76,8 @@ print(profile.json())
 - 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://garden.chann.dev](https://garden.chann.dev)
 - Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
 
+### GitHub Activity
+
+![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=channprj&hide_border=true)
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/channprj/svg?template=terminal&tokens=full&cost=full)](https://tokscale.ai/u/channprj)
