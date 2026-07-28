@@ -9,6 +9,7 @@
 
 ## Park Hee Chan (CHANN)
 
+### For Agent
 ```py
 import json
 from dataclasses import dataclass, field
@@ -67,6 +68,7 @@ class Profile:
 profile = Profile()
 print(profile.json())
 ```
+### For Human
 
 - 👨🏻‍💻 Product Engineer
 - 🇰🇷 Born in South Korea
@@ -79,5 +81,7 @@ print(profile.json())
 ### GitHub Activity
 
 ![GitHub Contribution Graph](https://gitlyy.vercel.app/api/contribution?username=channprj&hide_border=true)
+
+### Token Usage
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/channprj/svg?template=terminal&tokens=full&cost=full)](https://tokscale.ai/u/channprj)
