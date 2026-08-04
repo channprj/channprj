@@ -9,6 +9,15 @@
 
 ## Park Hee Chan (CHANN)
 
+### Projects
+
+- [Markdowner](https://markdowner.chann.dev/) - human and agent-friendly wysiwyg markdown editor
+- [kmsg](https://channprj.github.io/kmsg/) - unofficial kakaotalk-cli, built for agents
+- [chann/skills](https://chann.github.io/skills/) - personal agent skills
+- [chann/tools](http://tools.chann.dev/) - personal online toolbox
+- [chann/cli-tools](http://chann.github.io/cli-tools/) - cli tools for fun and productivity
+- [chann/design](https://chann.github.io/design/) - (experimental) personal design guide
+
 ### For Agent
 ```py
 import json
