@@ -62,7 +62,7 @@ class Profile:
     social: Dict[str, str] = field(
         default_factory=lambda: {
             "blog": "https://blog.chann.kr",
-            "digital-garden": "https://garden.chann.dev",
+            "digital-garden": "https://wiki.chann.dev",
             "instagram": "https://instagram.com/channprj",
             "linkedin": "https://linkedin.com/in/channprj",
             "x": "https://x.com/channprj",
@@ -85,7 +85,7 @@ print(profile.json())
 - 🥰 Like 👶🏻 Childcare, 🥾 Hiking, 🚴🏻‍♂️ Cycling, 💪🏻 Fitness, and 🎾 Tennis
 - 🎓 B.E. in 💻 Computer and B.Sci. in 🧠 Brain
 - 🏷 go, py, ts, rust, devops, ai, agents, llm, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
-- 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://garden.chann.dev](https://garden.chann.dev)
+- 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://wiki.chann.dev](https://wiki.chann.dev)
 - Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
 
 ### GitHub Activity
