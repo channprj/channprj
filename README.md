@@ -62,7 +62,7 @@ class Profile:
     social: Dict[str, str] = field(
         default_factory=lambda: {
             "blog": "https://blog.chann.kr",
-            "digital-garden": "https://wiki.chann.dev",
+            "wiki": "https://wiki.chann.dev",
             "instagram": "https://instagram.com/channprj",
             "linkedin": "https://linkedin.com/in/channprj",
             "x": "https://x.com/channprj",
