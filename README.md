@@ -11,7 +11,7 @@
 
 ### Projects
 
-- [Markdowner](https://markdowner.chann.dev/) - human and agent-friendly wysiwyg markdown editor
+- [markdowner](https://markdowner.chann.dev/) - human and agent-friendly wysiwyg markdown editor
 - [kmsg](https://channprj.github.io/kmsg/) - unofficial kakaotalk-cli, built for agents
 - [convert-anything](https://github.com/channprj/convert-anything) - convert to optimized file formats in your menu bar
 - [chann/skills](https://chann.github.io/skills/) - personal agent skills
