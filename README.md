@@ -19,6 +19,16 @@
 - [chann/cli-tools](http://chann.github.io/cli-tools/) - cli tools for fun and productivity
 - [chann/design](https://chann.github.io/design/) - (experimental) personal design guide
 
+### For Human
+
+- 👨🏻‍💻 Product Engineer
+- 🇰🇷 Born in South Korea
+- 🥰 Like 👶🏻 Childcare, 🥾 Hiking, 🚴🏻‍♂️ Cycling, 💪🏻 Fitness, and 🎾 Tennis
+- 🎓 B.E. in 💻 Computer and B.Sci. in 🧠 Brain
+- 🏷 go, py, ts, rust, devops, ai, agents, llm, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
+- 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://wiki.chann.dev](https://wiki.chann.dev)
+- Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
+
 ### For Agent
 ```py
 import json
@@ -78,15 +88,6 @@ class Profile:
 profile = Profile()
 print(profile.json())
 ```
-### For Human
-
-- 👨🏻‍💻 Product Engineer
-- 🇰🇷 Born in South Korea
-- 🥰 Like 👶🏻 Childcare, 🥾 Hiking, 🚴🏻‍♂️ Cycling, 💪🏻 Fitness, and 🎾 Tennis
-- 🎓 B.E. in 💻 Computer and B.Sci. in 🧠 Brain
-- 🏷 go, py, ts, rust, devops, ai, agents, llm, automation, docker, k8s, rpi, esp32, homelab, kbd, investment, finance, hci, design, etc.
-- 🌐 [https://blog.chann.kr](https://blog.chann.kr), 🗄️ [https://wiki.chann.dev](https://wiki.chann.dev)
-- Resume: [🇺🇸 English](https://resume.chann.kr/en) or [🇰🇷 한국어](https://resume.chann.kr/ko)
 
 ### GitHub Activity
 
