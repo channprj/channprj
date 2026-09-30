@@ -14,6 +14,9 @@
 - [markdowner](https://markdowner.chann.dev/) - human and agent-friendly wysiwyg markdown editor
 - [kmsg](https://channprj.github.io/kmsg/) - unofficial kakaotalk-cli, built for agents
 - [convert-anything](https://github.com/channprj/convert-anything) - convert to optimized file formats in your menu bar
+- [wakenote](https://github.com/channprj/wakenote) - 24/7 vor ai note taking app
+- [backup-mic](https://github.com/channprj/backup-mic) - backup your mic with m4a format
+- [stt-cli](https://github.com/channprj/stt-cli) - speech-to-text command line interface
 - [chann/skills](https://chann.github.io/skills/) - personal agent skills
 - [chann/tools](http://tools.chann.dev/) - personal online toolbox
 - [chann/cli-tools](http://chann.github.io/cli-tools/) - cli tools for fun and productivity
